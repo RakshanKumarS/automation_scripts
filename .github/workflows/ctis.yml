@@ -15,8 +15,8 @@ jobs:
      steps:
      - uses: actions/checkout@v2
      - name: Setup Java 8
-     - uses: actions/setup-java@v4
-       with:
+       - uses: actions/setup-java@v4
+         with:
             distribution: 'temurin'
             java-version: '8'
      - name: Setup Permissions
@@ -24,7 +24,7 @@ jobs:
      - name: Run CITS Test
        run: ./Run.command -run -project_location "Projects/Practice" -release "Release1" -testset "TestSet1" -setENV "run.ExecutionMode=Grid" -setENV "run.RemoteGridURL=$REMOTE_GRID_URL" -setENV "run.TestEnv=$ENVIRONMENT_TO_EXECUTE"
      - name: Upload Results
-     - uses: actions/upload-artifact@v4
-       with:
+       - uses: actions/upload-artifact@v4
+          with:
             name: Test Results
             path: Practice/Results/TestExecution/Release1/TestSet1/Latest
