@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/annotation-detector-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ashot-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/asm-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/aspectjweaver-1.8.10.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/autocomplete-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cglib-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cognizant-intelligent-test-scripter-datalib-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cognizant-intelligent-test-scripter-engine-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cognizant-intelligent-test-scripter-extensionconnect-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cognizant-intelligent-test-scripter-qc-connection-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cognizant-intelligent-test-scripter-testdata-csv-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/com.ibm.mq.allclient-9.0.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/com4j-20110320.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-cli-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-csv-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/CsvDriver.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/csvjdbc-1.0-28.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/extensionConnect.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/fillo-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/galen-core-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/galen-rainbow4j-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/gherkin-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jackson-core-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jackson-databind-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jackson-dataformat-xml-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jackson-module-jaxb-annotations-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/java-client-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/javax.jms-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/javax.mail-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jcsv.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-security-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-server-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-servlet-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/lambdaj-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ngwebdriver-0.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ngwebdriver-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/ojdbc7-12.1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/opencv-3.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/QcConnection.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/rhino-1.7R5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/rsyntaxtextarea-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-api-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-chrome-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-edge-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-firefox-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-ie-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-java-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-opera-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-remote-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-safari-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-server-standalone-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/selenium-support-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sikuli-java.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sikulixlibsmac-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/slf4j-simple-1.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/solr-solrj-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/solr-solrj-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/sonar-ant-task-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spring-aop-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spring-beans-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spring-context-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spring-core-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spring-expression-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/Spritz_Integration-0.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spritz-data-lib.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/spritz-engine.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/websocket-server-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/websocket-servlet-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/woodstox-core-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/xlsx-streamer-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/data-lib/annotation-detector-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/data-lib/jackson-dataformat-xml-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/data-lib/jackson-module-jaxb-annotations-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/data-lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/data-lib/woodstox-core-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/dataprovider/Csv.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/extension/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/extension/jackson-annotations-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/extension/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/T3 CITIS 1.2/cognizant-intelligent-test-scripter-1.2/lib/extension/jackson-databind-2.7.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/annotation-detector-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/ashot-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/asm-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/aspectjweaver-1.8.10.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/autocomplete-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cglib-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cognizant-intelligent-test-scripter-datalib-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cognizant-intelligent-test-scripter-engine-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cognizant-intelligent-test-scripter-extensionconnect-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cognizant-intelligent-test-scripter-qc-connection-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cognizant-intelligent-test-scripter-testdata-csv-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/com4j-20110320.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/galen-core-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/galen-rainbow4j-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/gherkin-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jackson-core-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jackson-databind-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jackson-dataformat-xml-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jackson-module-jaxb-annotations-2.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/java-client-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-security-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-server-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-servlet-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/lambdaj-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/ngwebdriver-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/opencv-3.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/rhino-1.7R5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/rsyntaxtextarea-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-api-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-chrome-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-edge-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-firefox-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-ie-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-java-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-opera-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-remote-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-safari-driver-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/selenium-support-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/sikulixlibsmac-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/slf4j-simple-1.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/spring-aop-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/spring-beans-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/spring-context-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/spring-core-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/spring-expression-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/websocket-server-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/websocket-servlet-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/woodstox-core-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/annotation-detector-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/ashot-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/com4j-20110320.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/commons-cli-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/commons-csv-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/Csv.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/csvjdbc-1.0-28.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/db2jcc.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/db2jcc_license_cisuz.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/extensionConnect.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/galen-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/gherkin-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/groovy-all-2.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/htmlcompressor-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jackson-annotations-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jackson-databind-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jackson-dataformat-xml-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jackson-module-jaxb-annotations-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jcsv.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jetty-9.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/jsoup-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/ngwebdriver-0.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/PerfInsightSpritz-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/PerfInsightSpritzAnalysisEngine-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/QcConnection.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/selenium-server-standalone-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/sikuli-java.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/sonar-ant-task-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/woodstox-core-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/clib/yuicompressor-2.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/NAPO APS Modernization CITS 1.2/lib/jetty/jetty-9.2.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

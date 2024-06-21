@@ -1,0 +1,19 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Execute,,ApplicationLogin:StandardUser,,,
+2,AddToCartBtn,"Click the [<Object>] ",Click,,,AddToCart
+3,AddToCartBtn,Assert if [<Object>]'s Text Equals [<Data>],assertElementTextEquals,@Remove,,AddToCart
+4,ItemPrice,Store the [<Object>] element's text into datasheet:columname [<Data>],storeTextinDataSheet,AddToCart:ItemPrice,,AddToCart
+5,ItemsCart,Assert if [<Object>]'s Text Equals [<Data>],assertElementTextEquals,@1,,AddToCart
+6,CartLink,"Click the [<Object>] ",Click,,,AddToCart
+7,CartQuantity,Assert if [<Object>]'s Text Equals [<Data>],assertElementTextEquals,@1,,AddToCart
+8,CartItemName,Assert if [<Object>]'s Text Equals [<Data>],assertElementTextEquals,AddToCart:CartItem,,AddToCart
+9,ItemPrice,Assert if [<Object>]'s Text Equals [Ignorecase] [<Data>],assertElementTextIEquals,AddToCart:ItemPrice,,AddToCart
+10,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+11,CheckoutBtn,"Click the [<Object>] ",Click,,,Checkout
+12,FirstName,Enter the value [<Data>] in the Field [<Object>],Set,AddToCart:FirstName,,Checkout
+13,LastName,Enter the value [<Data>] in the Field [<Object>],Set,AddToCart:LastName,,Checkout
+14,PinCode,Enter the value [<Data>] in the Field [<Object>],Set,AddToCart:ZIP,,Checkout
+15,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+16,ContinueBtn,"Click the [<Object>] ",Click,,,Checkout
+17,FinishBtn,"Click the [<Object>] ",Click,,,Checkout
+18,SuccessMsg,Assert if [<Object>]'s Attribute Equals [Ignorecase] [<Data>],assertElementTextEquals,AddToCart:SuccessMessage,,Checkout
