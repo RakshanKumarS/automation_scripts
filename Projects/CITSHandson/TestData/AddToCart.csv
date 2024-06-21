@@ -1,0 +1,2 @@
+Scenario,Flow,Iteration,SubIteration,CartItem,ItemPrice,FirstName,LastName,ZIP,SuccessMessage
+AddToCart,ADDTC01,1,1,Sauce Labs Bike Light,$9.99,Test,User,600045,Thank you for your order!

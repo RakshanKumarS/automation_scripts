@@ -1,0 +1,6 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,Login:URL,,
+2,UserName,Enter the value [<Data>] in the Field [<Object>],Set,Login:UserName,,Login
+3,Password,Enter the value [<Data>] in the Field [<Object>],Set,Login:Password,,Login
+4,LoginBtn,"Click the [<Object>] ",Click,,,Login
+5,HeaderText,Assert if [<Object>]'s Text Equals [<Data>],assertElementTextEquals,Login:Header,,Login

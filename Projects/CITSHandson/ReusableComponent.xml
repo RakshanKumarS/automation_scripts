@@ -1,0 +1,7 @@
+<Root ref="CITSHandson" type="RC">
+<Folder ref="Login">
+<Scenario ref="ApplicationLogin">
+<TestCase exeType="Executable" ref="StandardUser"/>
+</Scenario>
+</Folder>
+</Root>

@@ -1,0 +1,212 @@
+<Root type="OR" ref="CITSHandson">
+  <Page title="" ref="Login">
+    <ObjectGroup ref="UserName">
+      <Object frame="" ref="UserName">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//input[@id='user-name']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Password">
+      <Object frame="" ref="Password">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//input[@id='password']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="LoginBtn">
+      <Object frame="" ref="LoginBtn">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//input[@id='login-button']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="HeaderText">
+      <Object frame="" ref="HeaderText">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[@class='header_label']/div" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="AddToCart">
+    <ObjectGroup ref="AddToCartBtn">
+      <Object frame="" ref="AddToCartBtn">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[contains(text(),'Sauce Labs Bike Light')]/following::div[2]/button" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ItemsCart">
+      <Object frame="" ref="ItemsCart">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//span[@class='shopping_cart_badge']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CartLink">
+      <Object frame="" ref="CartLink">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//a[@class='shopping_cart_link']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CartQuantity">
+      <Object frame="" ref="CartQuantity">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[@class='cart_quantity']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CartItemName">
+      <Object frame="" ref="CartItemName">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[@class='inventory_item_name']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ItemPrice">
+      <Object frame="" ref="ItemPrice">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[contains(text(),'Sauce Labs Bike Light')]/following::div[2]/div" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="Checkout">
+    <ObjectGroup ref="FirstName">
+      <Object frame="" ref="FirstName">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="first-name" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="LastName">
+      <Object frame="" ref="LastName">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="last-name" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Pincode">
+      <Object frame="" ref="Pincode">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="postal-code" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CheckoutBtn">
+      <Object frame="" ref="CheckoutBtn">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//button[@id='checkout']" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ContinueBtn">
+      <Object frame="" ref="ContinueBtn">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="continue" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="FinishBtn">
+      <Object frame="" ref="FinishBtn">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="finish" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SuccessMsg">
+      <Object frame="" ref="SuccessMsg">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="" ref="relative_xpath" pref="4"/>
+        <Property value="//div[@id='checkout_complete_container']/h2" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="" ref="css" pref="7"/>
+        <Property value="" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>

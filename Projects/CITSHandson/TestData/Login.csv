@@ -1,0 +1,2 @@
+Scenario,Flow,Iteration,SubIteration,URL,UserName,Password,Header
+ApplicationLogin,StandardUser,1,1,"#StandardUser","#StandardUser","#StandardUser",Swag Labs
